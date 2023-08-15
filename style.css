@@ -1,0 +1,40 @@
+/* header section style */
+.header{
+    display: flex;
+    background-color: rgb(230, 211, 214);
+    justify-content: space-between;
+}
+.header-title{
+    font-size: 80px;
+    font-weight: 700;
+    width: 69%;
+    margin-left: 200px;
+    margin-top: 250px;
+}
+.header-desc{
+    font-size: 20px;
+    width: 69%;
+    margin-left: 200px;
+    margin-top: 5px;
+    /* gap: 5px; */
+    color: #5e5c5c;
+    /* margin-top: 100px; */
+}
+.btn-primary{
+    font-size: 20px;
+    /* width: 50%; */
+    font-weight: 700;
+    margin-left: 200px;
+    color: white;
+    background-color: rgb(216, 72, 96);
+    padding: 20px 20px;
+    width: 200px;
+    border-radius: 5px;
+    border: 0;
+    margin-top: 20px;
+    
+}
+.img{
+    margin-right: 300px;
+    margin-top: 50px;
+}
