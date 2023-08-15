@@ -1,3 +1,7 @@
+body section{
+    margin-top: 200px;
+}
+
 /* header section style */
 .header{
     display: flex;
@@ -48,8 +52,12 @@
     font-weight: 700;
 }
 .section-desc{
+    font-size: 30px;
+    width: 50%;
+    margin-left: 500px;
+    margin-top: 5px;
     text-align: center;
-    font-size: 20px;
+    /* gap: 5px; */
     color: #5e5c5c;
 }
 .flower-trees{
@@ -108,9 +116,10 @@
 }
 .sign-desc{
     font-size: 30px;
-    width: 69%;
-    margin-left: 200px;
+    width: 50%;
+    margin-left: 500px;
     margin-top: 5px;
+    text-align: center;
     /* gap: 5px; */
     color: #5e5c5c;
 }
@@ -124,4 +133,31 @@
 #btn-sign-up{
     margin-right: 250px;
     /* padding: 10px 10px; */
+}
+
+
+/* insta styles */
+
+.insta-title{
+    font-size: 50px;
+    font-weight: 700;
+    width: 69%;
+    margin-left: 200px;
+    margin-top: 250px;
+    text-align: center;
+}
+.insta-desc{
+    font-size: 30px;
+    width: 50%;
+    margin-left: 450px;
+    margin-top: 5px;
+    text-align: center;
+    /* gap: 5px; */
+    color: #5e5c5c;
+}
+
+.insta-flowers{
+    display: flex;
+    gap: 50px;
+    margin-left: 350px;
 }
