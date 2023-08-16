@@ -37,7 +37,7 @@ body section{
     border: 0;
     margin-top: 20px;
     margin-bottom: 200px;
-    
+    cursor: pointer;
 }
 .img{
     margin-right: 300px;
@@ -71,8 +71,8 @@ body section{
     justify-content: space-between;
     margin-left: 500px;
     margin-right: 500px;
-    
 }
+
 .anchors{
     font-size: 25px;
     font-weight: 600;
@@ -81,6 +81,7 @@ body section{
     justify-content: space-between;
     margin-left: 560px;
     margin-right: 560px;
+    cursor: pointer;
     
 }
 
@@ -138,6 +139,7 @@ body section{
 }
 #btn-sign-up{
     margin-left: 570px;
+    cursor: pointer;
     /* padding: 10px 10px; */
 }
 
@@ -211,6 +213,7 @@ body section{
     border-radius: 5px;
     border: 0;
     margin-top: 20px;
+    cursor: pointer;
 }
 .inputANDsubs{
     display: inline-block;
@@ -247,6 +250,7 @@ textarea {
 }
 #btn-sub{
     margin-left: 690px;
+    cursor: pointer;
 }
 
 /* footer style */
