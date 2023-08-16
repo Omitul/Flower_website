@@ -91,7 +91,7 @@ body section{
  justify-content: space-between;
  margin-top: 200px;
  width: 50%;
- gap: 800px; */
+ gap: 800px; 
  text-align: center;
     /* background-color: rgb(220, 215, 218); */
 }
@@ -169,7 +169,6 @@ body section{
     background-image: url('../Flower\ Asset/Rectangle 9.png');
     background-repeat: no-repeat;
     background-position: center;
-   
 }
 .subs-title{
     font-size: 50px;
@@ -216,7 +215,6 @@ body section{
 .optional-column {
     width: 70%;
 }
-
 
 .optional input[type="text"], .optional input[type="email"],
 textarea {
