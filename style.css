@@ -198,3 +198,35 @@ body section{
     display: inline-block;
     margin-right: 200px;
 }
+
+/* optional */
+.section-title{
+    margin-left: 600px;
+}
+.optional{
+    background-color: #ea5252;
+    width: 100%;
+
+}
+
+.optional-column {
+    width: 70%;
+}
+
+
+.optional input[type="text"], .optional input[type="email"],
+textarea {
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    color: #757575;
+    border-radius: 5px;
+    background: #FFF;
+    margin-left: 690px;
+    border: 0;
+    width: 50%;
+}
+#btn-sub{
+    margin-left: 690px;
+}
+
