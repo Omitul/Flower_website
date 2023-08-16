@@ -194,9 +194,21 @@ body section{
     margin-bottom: 193px;
     
 }
+.btn-subs{
+    font-size: 20px;
+    /* width: 50%; */
+    font-weight: 700;
+    color: white;
+    background-color: rgb(216, 72, 96);
+    padding: 20px 20px;
+    width: 200px;
+    margin-left: 30px;
+    border-radius: 5px;
+    border: 0;
+    margin-top: 20px;
+}
 .inputANDsubs{
     display: inline-block;
-    margin-right: 200px;
 }
 
 /* optional */
