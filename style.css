@@ -68,13 +68,19 @@ body section{
 .box{
     display: flex;
     align-items: center;
-    margin-left: 100px;
-    margin-right: 100px;
+    justify-content: space-between;
+    margin-left: 500px;
+    margin-right: 500px;
+    
 }
-.anchor{
+.anchors{
     font-size: 25px;
     font-weight: 600;
     color: black;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 560px;
+    margin-right: 560px;
     
 }
 
