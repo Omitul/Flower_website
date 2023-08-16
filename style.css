@@ -206,7 +206,6 @@ body section{
 .optional{
     background-color: #ea5252;
     width: 100%;
-
 }
 
 .optional-column {
@@ -228,5 +227,42 @@ textarea {
 }
 #btn-sub{
     margin-left: 690px;
+}
+
+/* footer style */
+.footer-part{
+    background-color: black;
+    text-align: center;
+    padding: 100px;
+    margin-top: 200px;
+}
+.footer-title{
+    font-size: 50px;
+    text-align: center;
+    font-weight: 700;
+    color: white;
+}
+.footer-desc{
+    font-size: 20px;
+    width: 50%;
+    margin-left: 520px;
+    text-align: center;
+    /* gap: 5px; */
+    color: #5e5c5c;
+    margin-top: 50px;
+    
+}
+.Shop{
+    color:#ea5252
+}
+.footer-DESC{
+    color: rgb(170, 155, 155);
+    font-size: 20px;
+    width: 30%;
+    margin-left: 560px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-left: 750px;
+    /* gap: 5px; */
 }
 
