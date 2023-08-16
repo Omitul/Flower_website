@@ -49,7 +49,8 @@ body section{
     font-size: 50px;
     font-weight: 700; 
     text-align: center;  
-    margin-right: 600px;
+    margin-right: 100px;
+    
 }
 .section-desc{
     font-size: 30px;
@@ -200,8 +201,12 @@ body section{
 }
 
 /* optional */
-.section-title{
-    margin-left: 600px;
+.section-title-op{
+    font-size: 50px;
+    font-weight: 700;
+    width: 69%;
+    margin-top: 250px;
+    margin-left: 700px;
 }
 .optional{
     background-color: #ea5252;
