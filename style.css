@@ -97,9 +97,9 @@ body section{
 .sign-up-part{
     margin-left: 200px;
 }
-.sign-up-img{
-    /* margin-right: 2000px; */
-}
+/* .sign-up-img{
+    margin-right: 2000px;
+} */
 .sign{
     display: flex;
     margin-top: 100px;
@@ -117,7 +117,7 @@ body section{
 .sign-desc{
     font-size: 30px;
     width: 50%;
-    margin-left: 500px;
+    margin-left: 350px;
     margin-top: 5px;
     text-align: center;
     /* gap: 5px; */
@@ -142,14 +142,14 @@ body section{
     font-size: 50px;
     font-weight: 700;
     width: 69%;
-    margin-left: 200px;
+    margin-left: 300px;
     margin-top: 250px;
     text-align: center;
 }
 .insta-desc{
     font-size: 30px;
     width: 50%;
-    margin-left: 450px;
+    margin-left: 500px;
     margin-top: 5px;
     text-align: center;
     /* gap: 5px; */
@@ -160,4 +160,41 @@ body section{
     display: flex;
     gap: 50px;
     margin-left: 350px;
+}
+
+
+/* subscribe part */
+.subs-part{
+    background-image: url('../Flower\ Asset/Rectangle 9.png');
+    background-repeat: no-repeat;
+    background-position: center;
+   
+}
+.subs-title{
+    font-size: 50px;
+    text-align: center;
+    font-weight: 700;
+}
+.subs-desc{
+    font-size: 25px;
+    width: 50%;
+    margin-left: 560px;
+    text-align: center;
+    margin-bottom: 20px;
+    /* gap: 5px; */
+    color: #5e5c5c;
+}
+
+.input-subs{
+    margin-left: 700px;
+    width: 650px;
+    height: 60px;
+    border: 0;
+    border: 5px;
+    margin-bottom: 193px;
+    
+}
+.inputANDsubs{
+    display: inline-block;
+    margin-right: 200px;
 }
